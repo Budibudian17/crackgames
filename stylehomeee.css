@@ -1,0 +1,139 @@
+.home{
+    color: rgb(255, 5, 5);
+}
+
+a{
+    color: rgb(255, 149, 0);
+}
+
+img.gambarmiles{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+a.teksmiles{
+    margin-left: 130px;
+    text-decoration: none;
+}
+
+a.teksmiles:hover{
+    margin-left: 130px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+img.gambarbendy{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 150px;
+}
+
+a.teksbendy{
+    text-decoration: none;
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 265px;
+}
+
+a.teksbendy:hover{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 265px;
+    text-decoration: none;
+    color: rgb(242, 255, 0);
+}
+
+img.gambarbendydr{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 150px;
+}
+
+a.teksbendydr{
+    text-decoration: none;
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 230px;
+}
+
+a.teksbendydr:hover{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 230px;
+    text-decoration: none;
+    color: rgb(242, 255, 0);
+}
+
+img.gambarpoppy{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+a.tekspoppy{
+    margin-left: 135px;
+    text-decoration: none;
+}
+
+a.tekspoppy:hover{
+    margin-left: 135px;
+    text-decoration: none;
+    color: rgb(13, 0, 255);
+}
+
+img.gambarkratos{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 150px;
+}
+
+a.tekskratos{
+    text-decoration: none;
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 290px;
+}
+
+a.tekskratos:hover{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 290px;
+    text-decoration: none;
+    color: rgb(81, 81, 99);
+}
+
+img.gambarspider{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 150px;
+}
+
+a.teksspider{
+    text-decoration: none;
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 280px;
+}
+
+a.teksspider:hover{
+    width: 300px;
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 280px;
+    text-decoration: none;
+    color: rgb(195, 67, 74);
+}
